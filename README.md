@@ -2,13 +2,14 @@
 
 <div align="center">
 A computer science student at cefet-rj and information security student at inmetro.
-</div>
 
 <br/>
 
 Here you can see my projects and studies things.
 
 #### 🌱 I’m currently learning: React, Node and Next.js
+
+</div>
 
 <div align="center">
 "We can only see a short distance ahead but we can see plenty there that needs to be done" - Alan Turing.
