@@ -8,7 +8,10 @@ A computer science student at cefet-rj and information security student at inmet
 
 Here you can see my projects and studies things.
 
-- 🌱 I’m currently learning React, Node e Next.js
+### 🌱 I’m currently learning:
+- React
+- Node
+- Next.js
 
 <div align="center">
 "We can only see a short distance ahead but we can see plenty there that needs to be done" - Alan Turing.
