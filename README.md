@@ -2,7 +2,7 @@
 
 <div align="center">
 A computer science student at cefet-rj and information security student at inmetro.
-<\div>
+</div>
 
 Here you can see my projects and studies things.
 
