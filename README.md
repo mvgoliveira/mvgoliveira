@@ -2,7 +2,7 @@
 
 A computer science student at cefet-rj and information security student at inmetro.
 
-Here you can see my projects and student things.
+Here you can see my projects and study things.
 
 - 🌱 I’m currently learning React, Node e Next.js
 
