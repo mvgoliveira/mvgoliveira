@@ -1,4 +1,4 @@
-<h1 align="center">Hello :smiley:, i'm Marcus Oliveira</h1>
+<h1 align="center">i'm Marcus Oliveira</h1>
 
 A computer science student at cefet-rj and information security student at inmetro.
 
