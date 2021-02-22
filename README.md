@@ -8,4 +8,4 @@ Here you can see my projects and student things.
 
 "We can only see a short distance ahead but we can see plenty there that needs to be done" - Alan Turing.
 
-[![Group 1](https://user-images.githubusercontent.com/53785487/108726606-5fa78600-7506-11eb-8944-d38eaa2add3a.png)](https://www.linkedin.com/in/marcus-oliveira-3b92011a7/)
+[!<img src="https://user-images.githubusercontent.com/53785487/108726606-5fa78600-7506-11eb-8944-d38eaa2add3a.png" width="56" />](https://www.linkedin.com/in/marcus-oliveira-3b92011a7/)
