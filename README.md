@@ -23,3 +23,7 @@ Here you can see my projects and my studies things.
 [<img src="https://img.shields.io/badge/email-2ee699?style=for-the-badge&logo=gmail&logoColor=white" height="30" />](mailto:markusvi17@gmail.co)
   
 </div>
+
+#
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvgoliveira&layout=compact&show_icons=true&theme=vue-dark" alt="Langs" />
