@@ -24,6 +24,6 @@ Here you can see my projects and my studies things.
 
 #
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvgoliveira&layout=compact&show_icons=true&theme=vue" alt="Langs" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvgoliveira&layout=compact&show_icons=true&theme=blueberry" alt="Langs" />
 
 </div>
