@@ -19,7 +19,7 @@ Here you can see my projects and my studies things.
 
 <div align="center">
   
-[<img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />](https://www.linkedin.com/in/marcus-oliveira-3b92011a7/)
-[<img src="https://img.shields.io/badge/email-red?style=for-the-badge&logo=gmail&logoColor=white" height="30" />](mailto:markusvi17@gmail.co)
+[<img src="https://img.shields.io/badge/linkedin-013c75?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />](https://www.linkedin.com/in/marcus-oliveira-3b92011a7/)
+[<img src="https://img.shields.io/badge/email-d93025?style=for-the-badge&logo=gmail&logoColor=white" height="30" />](mailto:markusvi17@gmail.co)
   
 </div>
