@@ -1,6 +1,6 @@
 <h1 align="center">I'm Marcus Oliveira</h1>
 
-<div align="center">
+<div align="start">
 A computer science student at cefet-rj and information security student at inmetro.
 
 <br/>
