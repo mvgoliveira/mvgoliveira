@@ -1,4 +1,4 @@
-<img align="right" src="https://user-images.githubusercontent.com/53785487/116764236-db3a1d80-a9f6-11eb-920c-6f931a63a20e.png" width="200"/>
+<img align="right" src="https://user-images.githubusercontent.com/53785487/116764284-03298100-a9f7-11eb-8005-e0b8d782028a.png" width="200"/>
 
 ### Hi, I'm Marcus Oliveira</h1>
 
@@ -19,7 +19,7 @@ Here you can see my projects and my studies things.
 
 <br/>
 
-[<img src="https://img.shields.io/badge/Marcus Oliveira-f5f55d?style=flat-square&logo=linkedin&logoColor=black" height="25" />](https://www.linkedin.com/in/marcus-oliveira-3b92011a7/)
-[<img src="https://img.shields.io/badge/Markusvi17@gmail.com-f5f55d?style=flat-square&logo=gmail&logoColor=black" height="25" />](mailto:markusvi17@gmail.com)
+[<img src="https://img.shields.io/badge/Marcus Oliveira-43AD74?style=flat-square&logo=linkedin&logoColor=black" height="25" />](https://www.linkedin.com/in/marcus-oliveira-3b92011a7/)
+[<img src="https://img.shields.io/badge/Markusvi17@gmail.com-43AD74?style=flat-square&logo=gmail&logoColor=black" height="25" />](mailto:markusvi17@gmail.com)
 
 </div>
