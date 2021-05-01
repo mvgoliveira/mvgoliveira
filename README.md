@@ -1,6 +1,6 @@
 <img align="right" src="https://user-images.githubusercontent.com/53785487/116784245-97ccc700-aa69-11eb-9312-f85298f9e3d4.png" width="200"/>
 
-### Hi, I'm Marcus Oliveira 👨🏻‍💻</h1>
+### Hi, I'm Marcus Oliveira 👋🏻</h1>
 
 <div align="start">
 A computer science student at cefet-rj and information security student at inmetro.
