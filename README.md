@@ -1,5 +1,3 @@
-<img align="right" src="https://user-images.githubusercontent.com/53785487/116784245-97ccc700-aa69-11eb-9312-f85298f9e3d4.png" width="120"/>
-
 ### Hi, I'm Marcus Oliveira 👋🏻</h1>
 
 <div align="start">
@@ -12,6 +10,8 @@ Here you can see my projects and my studies things.
 :books: I’m currently learning: **React, Node, Typescript e Next.js**
 
 </div>
+
+<img align="right" src="https://user-images.githubusercontent.com/53785487/116784245-97ccc700-aa69-11eb-9312-f85298f9e3d4.png" width="120"/>
 
 <div align="start">
 "We can only see a short distance ahead but we can see plenty there that needs to be done" - Alan Turing.
