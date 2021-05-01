@@ -17,7 +17,7 @@ Here you can see my projects and my studies things.
 
 <br/>
 
-[<img src="https://img.shields.io/badge/Marcus Oliveira-43AD74?style=flat-square&logo=linkedin&logoColor=black&labelColor=3A9464" height="25" />](https://www.linkedin.com/in/marcus-oliveira-3b92011a7/)
-[<img src="https://img.shields.io/badge/Markusvi17@gmail.com-43AD74?style=flat-square&logo=gmail&logoColor=black&labelColor=3A9464" height="25" />](mailto:markusvi17@gmail.com)
+[<img src="https://img.shields.io/badge/Marcus Oliveira-43AD74?style=flat-square&logo=linkedin&logoColor=black&labelColor=3A9464" height="22" />](https://www.linkedin.com/in/marcus-oliveira-3b92011a7/)
+[<img src="https://img.shields.io/badge/Markusvi17@gmail.com-43AD74?style=flat-square&logo=gmail&logoColor=black&labelColor=3A9464" height="22" />](mailto:markusvi17@gmail.com)
 
 </div>
