@@ -1,4 +1,4 @@
-<img align="right" src="https://user-images.githubusercontent.com/53785487/116764284-03298100-a9f7-11eb-8005-e0b8d782028a.png" width="200"/>
+<img align="right" src="https://user-images.githubusercontent.com/53785487/116784077-89ca7680-aa68-11eb-9863-9bfd5656ac1e.png" width="200"/>
 
 ### Hi, I'm Marcus Oliveira</h1>
 
