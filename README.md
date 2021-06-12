@@ -7,7 +7,7 @@ A computer science student at Cefet-rj and information security student at Inmet
 
 Here you can see my projects and my studies things.
 
-:books: I’m currently learning: **React, Node, Typescript e Next.js**
+:books: I’m currently learning: **React, Node, Typescript and Next.js**
 
 </div>
 
