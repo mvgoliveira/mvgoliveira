@@ -1,4 +1,4 @@
-### Hi, I'm Marcus Oliveira <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 👋🏻</h1>
+### Hi, I'm Marcus Oliveira <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
 <div align="start">
 A computer science student at Cefet-rj and information security student at Inmetro.
