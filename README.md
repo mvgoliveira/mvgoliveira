@@ -1,7 +1,7 @@
 ### Hi, I'm Marcus Oliveira</h1>
 
 <div align="start">
-A computer science student at Cefet-rj and information security student at Inmetro.
+A computer science student at Cefet-rj.
 
 <br/>
 
