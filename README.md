@@ -1,7 +1,8 @@
 ### Hi, I'm Marcus Oliveira</h1>
 
 <div align="start">
-A computer science student at Cefet-rj.
+A computer scientist by CEFET-RJ.
+FullStack Developer in Squair.IoT.
 
 <br/>
 
