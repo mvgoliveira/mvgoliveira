@@ -7,7 +7,7 @@ A computer science student at Cefet-rj.
 
 Here you can see my projects and my studies things.
 
-:books: I’m currently learning: **React, React-Native, Node, Typescript, Next.js, C and Java**
+:books: I’m working with: **React, Node, Typescript, Next.JS and Nest.JS**
 
 </div>
 
